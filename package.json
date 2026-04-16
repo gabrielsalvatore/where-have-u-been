@@ -1,0 +1,30 @@
+{
+  "name": "where-have-u-been",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.2.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "exifr": "^7.1.3",
+    "react-simple-maps": "^3.0.0",
+    "world-atlas": "^2.0.2",
+    "topojson-client": "^3.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/topojson-client": "^3.1.0",
+    "@types/topojson-specification": "^1.0.5",
+    "tailwindcss": "^3.4.1",
+    "autoprefixer": "^10.4.18",
+    "postcss": "^8.4.38"
+  }
+}
